@@ -42,7 +42,10 @@ An interactive **Power BI Dashboard** designed to analyze and visualize key perf
 
 ## Screenshots 📸
 
-![Provider Insights Dashboard](./path_to_screenshot_image.png)
+![Screenshot 1](Healthcare%20Provide%20Dataset/Healthcare%20Provide%20Dataset/Screenshots/Screenshot%202024-12-28%20224104.png)
+
+![Screenshot 2](Healthcare%20Provide%20Dataset/Healthcare%20Provide%20Dataset/Screenshots/Screenshot%202024-12-28%20224105.png)
+
 
 ---
 

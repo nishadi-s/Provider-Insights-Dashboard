@@ -43,9 +43,9 @@ An interactive **Power BI Dashboard** designed to analyze and visualize key perf
 ## Screenshots 📸
 
 ### Screenshot 1
-![Screenshot 1](Power%20BI/Screenshots/Screenshot%202024-12-28%20224044.png)### Screenshot 2
-![Screenshot 2](Healthcare%20Provide%20Dataset/Healthcare%20Provide%20Dataset/Screenshots/Screenshot%202024-12-28%202241...)
-
+![Screenshot 1](Power%20BI/Screenshots/Screenshot%202024-12-28%20224044.png)
+### Screenshot 2
+![Screenshot 2](Power%20BI/Screenshots/Screenshot%202024-12-28%20224103.png)
 
 ---
 
